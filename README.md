@@ -9,3 +9,6 @@ Swift_Tutorial3 : Boolean, String equality, If else, Ternary Operator, while, re
 
 Optional
 Arrays
+Set
+Dictionary
+Functions
