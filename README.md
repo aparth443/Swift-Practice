@@ -12,3 +12,5 @@ Arrays
 Set
 Dictionary
 Functions
+Closures
+Enumerations
