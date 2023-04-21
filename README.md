@@ -14,3 +14,6 @@ Dictionary
 Functions
 Closures
 Enumerations
+Structures
+Classes
+Properties
