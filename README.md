@@ -17,3 +17,7 @@ Enumerations
 Structures
 Classes
 Properties
+Subscripts
+Methods
+Inheritance
+
