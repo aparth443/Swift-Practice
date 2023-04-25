@@ -20,4 +20,6 @@ Properties
 Subscripts
 Methods
 Inheritance
-
+Initialization
+Deinitialization
+Optional-Chaining
