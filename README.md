@@ -25,3 +25,6 @@ Deinitialization
 Optional-Chaining
 Error Handling
 Concurrency
+Type Casting
+Extensions
+Nested Types
