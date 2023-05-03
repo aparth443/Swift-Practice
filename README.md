@@ -29,3 +29,5 @@ Type Casting
 Extensions
 Nested Types
 Protocols
+Generics 
+Opaque Types
